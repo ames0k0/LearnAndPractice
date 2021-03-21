@@ -1,5 +1,5 @@
 # React.js + (html, css, JavaScript) basics
-![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/notes/result.png?raw=true)
+![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/result.png?raw=true)
 
 #### RoadMap
 - [x] ru - https://www.youtube.com/watch?v=hQ06mTbrEic&ab_channel=OldestJunior
@@ -25,3 +25,9 @@
 
 #### RECORDS
 - [x] https://youtu.be/Anfvk62CmHo
+
+#### Certs
+![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/sololearn-html.jpg?raw=true)
+![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/sololearn-css.jpg?raw=true)
+![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/codecademy.png?raw=true)
+- [ ] js
