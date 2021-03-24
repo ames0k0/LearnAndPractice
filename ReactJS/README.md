@@ -10,6 +10,7 @@
 - [x] en - https://www.sololearn.com/learning/1014
 - [x] en - https://www.sololearn.com/learning/1023
 - [x] en - https://www.sololearn.com/learning/1024
+- [x] en - https://www.sololearn.com/learning/1097
 
 #### html
 - [x] en - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
@@ -36,5 +37,5 @@
 ![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/sololearn-html.jpg?raw=true)
 ![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/sololearn-css.jpg?raw=true)
 ![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/sololearn-javascript.png?raw=true)
-- [ ] reactjs
+![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/sololearn-React+Redux.jpg?raw=true)
 ![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/ReactJS/pics/codecademy.png?raw=true)
