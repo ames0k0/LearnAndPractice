@@ -128,3 +128,30 @@ ADVANCED (Specialist)
 #### DevOps roadmap
 - [x] https://roadmap.sh/devops
 ![alt text](static/devops.png)
+```
+; Learn a Programming Language
+  + Python
+  - Go
+  - NodeJs
+; Learn about Managing Servers
+  ; Linux
+    + Ubuntu
+    + CentOS
+; Learn to live in Terminal
+  ; terminal multiplexeers
+    + tmux
+  - Learn Bash Scripting
+  + Vim / Nano
+  ; Text Manipulation Tools
+    + grep
+    + cat
+    + echo
+    + wc
+  ; Process Monitoring
+    + htop
+; Networking, Security and Protocols
+  + SSH
+; What is and how to setup a
+  ; Web Server
+    + Nginx
+```
