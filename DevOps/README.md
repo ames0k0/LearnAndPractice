@@ -1,4 +1,5 @@
 # DevOps
+##### Planning -> Building -> Testing -> Deployment -> Monitoring
 #### System Administration
 - [x] en - https://www.youtube.com/watch?v=dmyiHoqyaWg
 ```
@@ -10,9 +11,11 @@ BASE
   ; Linux
     - Red Hat
     - SUSE
+    - CentOS
     - Ubuntu/Debian
   ; MS
   ; Unix
+    - FreeBSD
 
 3. NETWORKING
   - Switch (between between Hub)
@@ -21,7 +24,6 @@ BASE
   - Ethernet
   - MAC addresses
   - DHCP
-  - DNS
   - Ping
   - Traceroute
   - Firewalls
@@ -34,18 +36,14 @@ BASE
 
 5. VIRTUALIZATION
   - WmWare
-  - Docker
+  - Docker (Container)
 
-6. AUTOMATIZATION
-  - Terraform
-  - Ansible
-
-7. SCRIPTING / PROGRAMMING
+6. SCRIPTING / PROGRAMMING
   - sh/bash
   - powershell
   - python3
 
-8. CLOUD
+7. CLOUD
   - AWS
   - GCP
   - Azure
@@ -63,8 +61,11 @@ FUNDAMENTALS
 2. NETWORKING
   - ip4(6)
   - routing
-  - nat
+  - nat/pat
   - firewall
+  - tcp
+  - cidr
+  - mask / netmask
 
 3. REVISION CONTROL SYSTEMS
   - Git
@@ -83,7 +84,7 @@ INTERMEDIATE
 
 2. SERVICES
   - DNS
-  - HTTPS
+  - HTTP(S)
   - SMTP
 
 3. CONFIGURATION MANAGEMENT
@@ -93,7 +94,7 @@ INTERMEDIATE
 4. VIRTUALIZATION
   - KVM
   ; Containers
-    - Docker
+    - Docker (Container)
 
 5. STORAGE
   - NFS
@@ -108,6 +109,7 @@ INTERMEDIATE
 
 9. CI / CD MANAGEMENT TOOLS
   - Github Ci
+  - Github Actions
   - Gitlab
   - Jenkins
 
@@ -116,6 +118,7 @@ INTERMEDIATE
   - NoSQL
 
 11. ORCHESTRATION
+  - docker swarm
   - Kubernetes
 
 ADVANCED (Specialist)
@@ -124,109 +127,4 @@ ADVANCED (Specialist)
 
 #### DevOps roadmap
 - [x] https://roadmap.sh/devops
-```
-
-;; pr -> Personal Recommendation
-;; po -> Pick/Optional
-;; nr -> Not Recommend
-
-;; Planning -> Building -> Testing -> Deployment -> Monitoring
-
-1. Learn a Programming Language { Go, Python, Node.js }
-
-2. Understan different OS Concepts
-  - [pr] > Startup Management (initd) ; startup
-  - [pr] > Startup Management (systemd) ; manage
-  - [pr] > I/O Management
-  - [pr] > Virtualization
-  - [pr] > Memory/Storage
-  - [pr] > File Systems
-  - [pr] > Process Management
-  - [pr] > Threads and Concurrency
-  - [pr] > Sockets
-  - [pr] > POSIX Basics
-  - [pr] > Networking Concepts
-
-3. Managing Servers
-  - ; Operating Systems {
-    Linux { Ubuntu, CentOS, RHEL }
-    Unix { FreeBSD }
-  }
-  - ; Learn to live in Terminal
-    -+ [pr] > Learn Bash Scripting
-    -+ [pr] > Vim/Nano/
-    -+ [pr] > Compiling apps from source (gcc, make and other related stuff)
-    -+ [pr] > System Performance (nman, iostat, sar, vmstat)
-    -+ [pr] > Others (strace, dtrace, systemtop, uname, df, history)
-    -+ [pr] > Text Manipulation Tools (awk, sedd, grep, sort, uniq, cat, cut, echo, fmt, tr, nl, egrep, fgrep, wc)
-    -+ [pr] > Process Monitoring (ps, top, htop, atop, isof)
-    -+ [pr] > Networking (nmap, tcpdump, ping, mtr, traceroute, dig, airmon, airodump, dig, iptables, netstat)
-
-4. Networking, Security and Protocols
-  -+ [pr] > HTTP
-  -+ [pr] > HTTPS
-  -+ [pr] > FTP
-  -+ [pr] > SSL / TLS
-  -+ [pr] > SSH
-  -+ [pr] > Port Forwarding
-  -+ [pr] > IP
-  -+ [pr] > DNS
-  -+ [po] > Emails
-  -+ [po] > SMTP
-  -+ [po] > IMAPS
-  -+ [po] > POPS3S
-  -+ [po] > DMARC
-  -+ [po] > SPF
-  -+ [po] > Domain Keys
-
-5. What is and how to setup a
-  [pr] > Caching Server
-  [pr] > Load Balancer
-  [pr] > Reverse Proxy
-  [pr] > Forward Proxy
-  [pr] > Firewall
-  - ; Web Server { Nginx }
-
-6. Learn Infrastructure as Code
-  - ; Learn some CI/CD Tools { Jenkins, Gitlub CI, Github Actions }
-  - ; Containers { Docker }
-  - ; Configuration Management { Ansible }
-  - ; Container Orchestration { Kubernetes, Docker Swarm }
-  - ; Infrastructure Provisioning { Terraform }
-
-7. Learn how to monitor software and infrastructure
-  - ; Infrastruccture Monitoring
-    -- [pr] > Prametheus
-    -- [pr] > Grafana
-    -+ [po] > Nagios
-    -- [po] > Zabbix
-    -- [po] > Monit
-    -- [po] > DataDog
-  - ; Application Monitoring
-    [pr] > New Relic
-    [pr] > Jaeger
-    [po] > Instana
-    [po] > OpenTracing
-    [po] > AppDynamics
-  - ; Logs Management
-    [pr] > Elastic Stack
-    [po] > Graylog
-    [po] > Splunk
-    [po] > Papertrail
-
-8. Cloud Providers
-  -+ [pr] > AWS + test
-  -- [po] > Heroku + test
-  -- [nr] > Alibaba Cloud + test
-  -- [po] > Vultr +5
-  -- [po] > Linode +5
-  -- [pr] > Digital Ocean +5
-
-9. Cloud Design Patterns
-  [] > Availability
-  [] > Data Management
-  [] > Design and Implementation
-  [] > Management and Monitor
-
-10. Version Control { Git, Bitbucket Gitlab }
-```
+![alt text](static/devops.png)
