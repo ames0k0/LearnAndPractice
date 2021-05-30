@@ -1,5 +1,5 @@
 # C
-![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/C/c.jpg?raw=true)
+![alt text](https://github.com/ames0k0/LearnAndPractice/blob/main/C/pics/c.jpg?raw=true)
 
 #### Anime girls holding programming books
 - [x] en - https://anime-girls-holding-programming-books.netlify.app/C
@@ -24,3 +24,6 @@
 
 #### RECORDS
 - [x] https://youtu.be/K3wjBJCh3sg
+
+#### Certs
+![alt text]("pics/sololearn-c.jpg")
