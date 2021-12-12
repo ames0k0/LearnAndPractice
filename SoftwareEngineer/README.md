@@ -21,13 +21,12 @@
 - [ ] System design
 - [ ] Software Development Life Cycle
 - [ ] Software Debugging, Testing, Automation tools
-- [ ] Algorithms
 
 #### Tech
-- [ ] Regular Expressions
+- [x] Regular Expressions
 - [ ] SQL
 - [ ] Debugging
-- [ ] Scripting/Tooling
+- [x] Scripting/Tooling
 - [ ] Microsoft Excel
 - [ ] IDE
 - [ ] Qualifications AND Certifications
