@@ -2,6 +2,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+# C++
+*.out
+
+# test scripts/solutions
+kk.*
+
 # test folder
 *trash*
 
