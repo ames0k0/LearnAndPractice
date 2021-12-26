@@ -10,3 +10,7 @@
 | 008  |      [Move Zeroes](https://leetcode.com/problems/move-zeroes/)       |    Easy    | [Python](Top100LikedQuestions/MoveZeroes.md) |
 | 009  |      [Majority Element](https://leetcode.com/problems/majority-element/)       |    Easy    | [Python](Top100LikedQuestions/MajorityElement.md) |
 | 010  |      [Min Stack](https://leetcode.com/problems/min-stack/)       |    Easy    | [Python](Top100LikedQuestions/MinStack.md) |
+| 011  |      [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)       |    Easy    | [Python](Top100LikedQuestions/LinkedListCycle.md) |
+| 012  |      [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)       |    Easy    | [Python](Top100LikedQuestions/PalindromeLinkedList.md) |
+| 013  |      [Intersection of two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)       |    Easy    | [Python](Top100LikedQuestions/IntersectionOfTwoLinkedLists.md) |
+| 014  |      [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)       |    Easy    | [Python](Top100LikedQuestions/ReverseLinkedList.md) |
